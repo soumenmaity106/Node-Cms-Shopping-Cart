@@ -3,7 +3,7 @@
 This simple shopping cart prototype shows how Node Express mongodb can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
 
 ## Features
- ###Admin Section
+ ######Admin Section
    - Admin will created unlimited pages
    - Darg and Drop Menu
    - Page create edit delete
@@ -11,7 +11,7 @@ This simple shopping cart prototype shows how Node Express mongodb can be used t
    - Product  create edit delete
    - Add Product Gallery
    - Admin login
- ###Fornt  Section
+ ######Fornt  Section
    - Show all pages and menu
    - Select by category
    - Add to cart
