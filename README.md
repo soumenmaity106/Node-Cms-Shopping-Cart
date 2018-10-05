@@ -1,6 +1,6 @@
-## Simple React Mobaile Web App
+## Simple CMS Shopping cart
 
-This simple shopping cart prototype shows how Node Express mongodb can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
+This simple shopping cart  shows how Node Express mongodb can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
 
 ## Features
    1. **Admin Section**
